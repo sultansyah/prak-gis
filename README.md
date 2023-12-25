@@ -1,0 +1,6 @@
+buat folder di bawah ini agar web dapat berjalan
+<ul>
+  <li>Digitasi Point</li>
+  <li>Digitasi Polyline</li>
+  <li>Digitasi Polygon</li>
+</ul>
