@@ -5,3 +5,10 @@
 *.shp
 *.lock
 *.txt
+*.png
+*.kml
+*.kmz
+*.prj
+*.xml
+*.xls
+*.shx
