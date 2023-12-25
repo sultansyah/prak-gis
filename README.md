@@ -4,3 +4,5 @@ buat folder di bawah ini agar web dapat berjalan
   <li>Digitasi Polyline</li>
   <li>Digitasi Polygon</li>
 </ul>
+
+isi folder tersebut dengan file shp
