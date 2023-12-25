@@ -83,6 +83,7 @@
         <div class="sidebar-content">
             <div class="sidebar-pane" id="home">
                 <h1 class="sidebar-header">Informasi</h1>
+                <div id="info">&nbsp;</div>
                 <p>Website ini dibuat untuk memenuhi tugas WebGIS pada mata kuliah Praktikum Geographic Information System.</p>
                 <p>Digitasi yang ada berupa</p>
                 <ul>
@@ -124,7 +125,13 @@
     </div>
 
     <div id="map" class="sidebar-map"></div>
+    <div id="info1">&nbsp;</div>
+    <div id="popup" class="popup">
+        <div id="popup-content"></div>
+        <button id="popup-closer" class="popup-closer">Close</button>
+    </div>
 
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="resources/ol/ol.js"></script>
     <script src="ol3-sidebar.js"></script>
     <script src="resources/layerswitcher/ol-layerswitcher.js"></script>
