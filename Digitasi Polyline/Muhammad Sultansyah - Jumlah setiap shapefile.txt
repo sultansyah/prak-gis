@@ -1,0 +1,4 @@
+Jumlah setiap shapefile:
+Jalan: 2
+Lorong: 3
+Selokan: 3
