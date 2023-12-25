@@ -1,0 +1,7 @@
+*.cpg
+*.dbf
+*.sbn
+*.sbx
+*.shp
+*.lock
+*.txt
